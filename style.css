@@ -1,0 +1,22 @@
+body{
+
+}
+#coinsTable{
+    width: 100%;
+}
+#coinsTable td{
+    padding: 1rem;
+    background-color: aquamarine;
+}
+#coinsTable img{
+    width: 20px;
+}
+.textGreen{
+    color: green;
+}
+.textRed{
+    color: Red;
+}
+#coinsTable tr{
+    border: black;
+}
